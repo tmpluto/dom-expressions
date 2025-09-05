@@ -96,8 +96,8 @@ importers:
         specifier: ^7.1.2
         version: 7.1.2
       validate-html-nesting:
-        specifier: ^1.2.1
-        version: 1.2.1
+        specifier: ^1.2.3
+        version: 1.2.3
     devDependencies:
       '@babel/core':
         specifier: ^7.20.12
@@ -4043,8 +4043,8 @@ packages:
     resolution: {integrity: sha512-74Y4LqY74kLE6IFyIjPtkSTWzUZmj8tdHT9Ii/26dvQ6K9Dl2NbEfj0XgU2sHCtKgt5VupqhlO/5aWuqS+IY1w==}
     engines: {node: '>=10.12.0'}
 
-  validate-html-nesting@1.2.1:
-    resolution: {integrity: sha512-T1ab131NkP3BfXB7KUSgV7Rhu81R2id+L6NaJ7NypAAG5iV6gXnPpQE5RK1fvb+3JYsPTL+ihWna5sr5RN9gaQ==}
+  validate-html-nesting@1.2.3:
+    resolution: {integrity: sha512-kdkWdCl6eCeLlRShJKbjVOU2kFKxMF8Ghu50n+crEoyx+VKm3FxAxF9z4DCy6+bbTOqNW0+jcIYRnjoIRzigRw==}
 
   validate-npm-package-license@3.0.4:
     resolution: {integrity: sha512-DpKm2Ui/xN7/HQKCtpZxoRWBhZ9Z0kqtygG8XCgNQ8ZlDnxuQmWhj566j8fN4Cu3/JmbhsDo7fcAJq4s9h27Ew==}
@@ -6297,7 +6297,7 @@ snapshots:
       '@babel/types': 7.23.0
       html-entities: 2.3.3
       parse5: 7.1.2
-      validate-html-nesting: 1.2.1
+      validate-html-nesting: 1.2.3
 
   babel-plugin-polyfill-corejs2@0.3.3(@babel/core@7.20.12):
     dependencies:
@@ -9061,7 +9061,7 @@ snapshots:
       '@types/istanbul-lib-coverage': 2.0.4
       convert-source-map: 1.9.0
 
-  validate-html-nesting@1.2.1: {}
+  validate-html-nesting@1.2.3: {}
 
   validate-npm-package-license@3.0.4:
     dependencies:
